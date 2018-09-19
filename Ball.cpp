@@ -14,7 +14,7 @@ Ball::Ball() {
 	//Masa en kg de una bola de billar es entre 0.156 y 0.170 kg
 	mass=0.165;
 
-	//Diametro es 5.71 cm = 0.0571 metros, como radio es la mitad del diametro = 0.02855
+	//Diametro es 5.712 cm = 0.0571 metros, como radio es la mitad del diametro = 0.02855
 	radio= 0.02855;
 	rcolor=1.0;
 	gcolor=0.0;
